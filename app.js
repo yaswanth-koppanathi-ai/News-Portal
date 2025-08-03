@@ -1,5 +1,5 @@
 // API configuration
-const API_KEY = 'f1f56885c0034ac0a379f2c04168ee0f';
+const API_KEY = 'YOUR_API_KEY_HERE';
 const BASE_URL = 'https://newsapi.org/v2';
 
 // DOM Elements
